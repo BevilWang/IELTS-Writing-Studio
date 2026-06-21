@@ -1,0 +1,76 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "name": "利弊分析",
+      "sectionList": [
+        {
+          "answerStatus": 0,
+          "doneNum": "15167",
+          "questionId": "8577",
+          "subTitle": "C20T2W2",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅20 Test 2",
+          "correctNum": 0,
+          "listenId": null
+        },
+        {
+          "answerStatus": 0,
+          "doneNum": "28272",
+          "questionId": "8398",
+          "subTitle": "C17T2W2",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅17 Test 2",
+          "correctNum": 0,
+          "listenId": null
+        },
+        {
+          "answerStatus": 0,
+          "doneNum": "18539",
+          "questionId": "8160",
+          "subTitle": "C15T4W2",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅15 Test 4",
+          "correctNum": 0,
+          "listenId": null
+        },
+        {
+          "answerStatus": 0,
+          "doneNum": "9559",
+          "questionId": "6847",
+          "subTitle": "C9T1W2",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅9 Test 1",
+          "correctNum": 0,
+          "listenId": null
+        },
+        {
+          "answerStatus": 0,
+          "doneNum": "9184",
+          "questionId": "7037",
+          "subTitle": "C5T2W2",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅5 Test 2",
+          "correctNum": 0,
+          "listenId": null
+        }
+      ]
+    }
+  ],
+  "msg": null
+}

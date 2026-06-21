@@ -1,0 +1,89 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "name": "拼图",
+      "sectionList": [
+        {
+          "answerStatus": 0,
+          "doneNum": "14221",
+          "questionId": "8578",
+          "subTitle": "C20T3W1",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅20 Test 3",
+          "correctNum": 0,
+          "listenId": null
+        },
+        {
+          "answerStatus": 0,
+          "doneNum": "22731",
+          "questionId": "8532",
+          "subTitle": "C19T4W1",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅19 Test 4",
+          "correctNum": 0,
+          "listenId": null
+        },
+        {
+          "answerStatus": 0,
+          "doneNum": "26979",
+          "questionId": "8159",
+          "subTitle": "C15T4W1",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅15 Test 4",
+          "correctNum": 0,
+          "listenId": null
+        },
+        {
+          "answerStatus": 0,
+          "doneNum": "18023",
+          "questionId": "6639",
+          "subTitle": "C14T2W1",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅14 Test 2",
+          "correctNum": 0,
+          "listenId": null
+        },
+        {
+          "answerStatus": 0,
+          "doneNum": "9872",
+          "questionId": "6829",
+          "subTitle": "C11T4W1",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅11 Test 4",
+          "correctNum": 0,
+          "listenId": null
+        },
+        {
+          "answerStatus": 0,
+          "doneNum": "11691",
+          "questionId": "6904",
+          "subTitle": "C8T1W1",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅8 Test 1",
+          "correctNum": 0,
+          "listenId": null
+        }
+      ]
+    }
+  ],
+  "msg": null
+}

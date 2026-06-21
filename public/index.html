@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IELTS Writing Studio - 首页</title>
+    <link rel="stylesheet" href="./home.css" />
+  </head>
+  <body>
+    <main class="home-shell">
+      <header class="home-header">
+        <h1>IELTS 写作题库首页</h1>
+        <p>先筛选题目，再进入作答页面</p>
+      </header>
+
+      <section class="filter-panel">
+        <label>
+          <span>任务</span>
+          <select id="taskSelect"></select>
+        </label>
+        <label>
+          <span>剑雅系列</span>
+          <select id="seriesSelect"></select>
+        </label>
+        <label>
+          <span>题型</span>
+          <select id="typeSelect"></select>
+        </label>
+        <label>
+          <span>话题</span>
+          <select id="topicSelect"></select>
+        </label>
+        <label>
+          <span>搜索</span>
+          <input id="searchInput" type="text" placeholder="题号 / 标题 / 关键词" />
+        </label>
+      </section>
+
+      <section class="result-bar">
+        <strong id="resultCount">0 道题</strong>
+      </section>
+
+      <section class="list-panel">
+        <ul id="questionList"></ul>
+      </section>
+    </main>
+
+    <script src="./home.js" defer></script>
+  </body>
+</html>

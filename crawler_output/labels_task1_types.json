@@ -1,0 +1,65 @@
+[
+  {
+    "id": 157,
+    "keyCode": "1303",
+    "tagZhName": "线型图",
+    "sort": 1,
+    "typeCode": "TX",
+    "parentId": "1301",
+    "used": 1
+  },
+  {
+    "id": 158,
+    "keyCode": "1304",
+    "tagZhName": "柱状图",
+    "sort": 2,
+    "typeCode": "TX",
+    "parentId": "1301",
+    "used": 1
+  },
+  {
+    "id": 159,
+    "keyCode": "1305",
+    "tagZhName": "流程图",
+    "sort": 3,
+    "typeCode": "TX",
+    "parentId": "1301",
+    "used": 1
+  },
+  {
+    "id": 160,
+    "keyCode": "1306",
+    "tagZhName": "饼型图",
+    "sort": 4,
+    "typeCode": "TX",
+    "parentId": "1301",
+    "used": 1
+  },
+  {
+    "id": 161,
+    "keyCode": "1307",
+    "tagZhName": "表格",
+    "sort": 5,
+    "typeCode": "TX",
+    "parentId": "1301",
+    "used": 1
+  },
+  {
+    "id": 162,
+    "keyCode": "1308",
+    "tagZhName": "地图",
+    "sort": 6,
+    "typeCode": "TX",
+    "parentId": "1301",
+    "used": 1
+  },
+  {
+    "id": 163,
+    "keyCode": "1364",
+    "tagZhName": "拼图",
+    "sort": 7,
+    "typeCode": "TX",
+    "parentId": "1301",
+    "used": 1
+  }
+]

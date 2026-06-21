@@ -1,0 +1,56 @@
+[
+  {
+    "id": 167,
+    "keyCode": "1312",
+    "tagZhName": "环境类",
+    "sort": 1,
+    "typeCode": "HT",
+    "parentId": "1302",
+    "used": 1
+  },
+  {
+    "id": 168,
+    "keyCode": "1313",
+    "tagZhName": "政府类",
+    "sort": 2,
+    "typeCode": "HT",
+    "parentId": "1302",
+    "used": 1
+  },
+  {
+    "id": 169,
+    "keyCode": "1314",
+    "tagZhName": "教育类",
+    "sort": 3,
+    "typeCode": "HT",
+    "parentId": "1302",
+    "used": 1
+  },
+  {
+    "id": 170,
+    "keyCode": "1315",
+    "tagZhName": "媒体类",
+    "sort": 4,
+    "typeCode": "HT",
+    "parentId": "1302",
+    "used": 1
+  },
+  {
+    "id": 171,
+    "keyCode": "1316",
+    "tagZhName": "社会生活类",
+    "sort": 5,
+    "typeCode": "HT",
+    "parentId": "1302",
+    "used": 1
+  },
+  {
+    "id": 172,
+    "keyCode": "1317",
+    "tagZhName": "犯罪类",
+    "sort": 6,
+    "typeCode": "HT",
+    "parentId": "1302",
+    "used": 1
+  }
+]

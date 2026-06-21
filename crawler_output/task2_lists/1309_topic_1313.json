@@ -1,0 +1,24 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "name": "利弊分析",
+      "sectionList": [
+        {
+          "answerStatus": 0,
+          "doneNum": "10249",
+          "questionId": "6860",
+          "subTitle": "C10T4W2",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅10 Test 4",
+          "correctNum": 0,
+          "listenId": null
+        }
+      ]
+    }
+  ],
+  "msg": null
+}

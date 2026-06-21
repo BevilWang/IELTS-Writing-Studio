@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "name": "是否同意",
+      "sectionList": [
+        {
+          "answerStatus": 0,
+          "doneNum": "10368",
+          "questionId": "6798",
+          "subTitle": "C11T2W2",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅11 Test 2",
+          "correctNum": 0,
+          "listenId": null
+        },
+        {
+          "answerStatus": 0,
+          "doneNum": "6248",
+          "questionId": "6916",
+          "subTitle": "C8T3W2",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅8 Test 3",
+          "correctNum": 0,
+          "listenId": null
+        }
+      ]
+    }
+  ],
+  "msg": null
+}

@@ -1,0 +1,86 @@
+﻿<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IELTS Writing Studio - 作答</title>
+    <link rel="stylesheet" href="./question.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="left-panel">
+        <div class="panel-header">
+          <h1>题目与图表</h1>
+          <p id="previewMeta"></p>
+          <a class="back-link" href="./index.html">返回首页筛选题目</a>
+        </div>
+
+        <div class="preview-content">
+          <section class="prompt-card" id="promptCard">
+            <h2 id="previewTitle"></h2>
+            <p id="previewPrompt" class="preview-prompt"></p>
+          </section>
+
+          <section class="chart-stage-wrap" id="chartStageWrap">
+            <div class="chart-stage">
+              <img id="chartImage" alt="题目图表" />
+            </div>
+            <div class="chart-controls" id="chartControls">
+              <button id="prevChartBtn" type="button">上一张</button>
+              <span id="chartIndexInfo">1 / 1</span>
+              <button id="nextChartBtn" type="button">下一张</button>
+            </div>
+          </section>
+        </div>
+      </aside>
+
+      <main class="right-panel mode-writing">
+        <div class="editor-header"></div>
+        <section class="gpt-helper">
+          <div class="gpt-actions">
+            <button id="openChatgptBtn" type="button">复制题型专属提示词</button>
+            <button id="applyGptHintsBtn" type="button">从剪贴板解析并生成引导式写作面板</button>
+            <div class="view-mode-switch" id="viewModeSwitch">
+              <button type="button" data-view-mode="writing" class="active">作答区</button>
+              <button type="button" data-view-mode="model">范文分析</button>
+            </div>
+            <div class="stats">
+              <span id="wordCount">写作进度：0%（0/250）</span>
+            </div>
+          </div>
+          <p id="gptCopyStatus" class="gpt-copy-status"></p>
+        </section>
+        <section class="compose-workspace" id="composeWorkspace">
+          <div class="editor-pane">
+            <div id="editor"></div>
+          </div>
+          <aside class="assistant-pane" id="guidePanel">
+            <div class="guide-tabs" id="guideTabs">
+              <button type="button" data-tab="guidance" class="active">写作指导</button>
+              <button type="button" data-tab="language">语料积累</button>
+              <button
+                id="toggleGuidePanelBtn"
+                class="guide-panel-toggle-btn"
+                type="button"
+                aria-expanded="true"
+                aria-label="折叠引导面板"
+                title="折叠引导面板"
+              >
+                折叠
+              </button>
+            </div>
+            <div class="guide-content" id="guideContent"></div>
+          </aside>
+        </section>
+        <section class="model-workspace" id="modelWorkspace">
+          <div class="model-pane">
+            <div class="guide-content model-content" id="modelContent"></div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/monaco-editor@0.52.2/min/vs/loader.min.js"></script>
+    <script src="./question.js" defer></script>
+  </body>
+</html>

@@ -1,0 +1,12 @@
+node_modules/
+
+# Logs / OS noise
+*.log
+.DS_Store
+Thumbs.db
+
+# Crawler scratch / debug artifacts (kept out of version control)
+cookies.txt
+*_8517.*
+chunks/
+chunk_paths.txt

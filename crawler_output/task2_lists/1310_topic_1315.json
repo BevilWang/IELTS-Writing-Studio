@@ -1,0 +1,24 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "name": "是否同意",
+      "sectionList": [
+        {
+          "answerStatus": 0,
+          "doneNum": "6721",
+          "questionId": "7078",
+          "subTitle": "C6T1W2",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅6 Test 1",
+          "correctNum": 0,
+          "listenId": null
+        }
+      ]
+    }
+  ],
+  "msg": null
+}

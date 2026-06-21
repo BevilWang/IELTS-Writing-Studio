@@ -1,0 +1,24 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "name": "双边讨论",
+      "sectionList": [
+        {
+          "answerStatus": 0,
+          "doneNum": "12532",
+          "questionId": "6640",
+          "subTitle": "C14T2W2",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅14 Test 2",
+          "correctNum": 0,
+          "listenId": null
+        }
+      ]
+    }
+  ],
+  "msg": null
+}

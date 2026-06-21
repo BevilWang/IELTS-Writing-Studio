@@ -1,0 +1,24 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "name": "利弊分析",
+      "sectionList": [
+        {
+          "answerStatus": 0,
+          "doneNum": "11412",
+          "questionId": "8579",
+          "subTitle": "C20T3W2",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅20 Test 3",
+          "correctNum": 0,
+          "listenId": null
+        }
+      ]
+    }
+  ],
+  "msg": null
+}

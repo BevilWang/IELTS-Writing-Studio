@@ -1,0 +1,11 @@
+{
+  "generatedAt": "2026-02-12T03:38:38.202Z",
+  "task1TypeCount": 7,
+  "task2TypeCount": 4,
+  "task2TopicCount": 6,
+  "questionCount": 128,
+  "detailOkCount": 128,
+  "detailBlockedCount": 0,
+  "chartUrlCount": 60,
+  "note": "详情接口可访问，已提取图表URL。"
+}

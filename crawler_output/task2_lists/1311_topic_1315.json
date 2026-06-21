@@ -1,0 +1,24 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "name": "说明文",
+      "sectionList": [
+        {
+          "answerStatus": 0,
+          "doneNum": "22642",
+          "questionId": "8334",
+          "subTitle": "C16T2W2",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅16 Test 2",
+          "correctNum": 0,
+          "listenId": null
+        }
+      ]
+    }
+  ],
+  "msg": null
+}

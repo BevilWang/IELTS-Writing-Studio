@@ -1,0 +1,50 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "name": "是否同意",
+      "sectionList": [
+        {
+          "answerStatus": 0,
+          "doneNum": "11081",
+          "questionId": "6819",
+          "subTitle": "C10T1W2",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅10 Test 1",
+          "correctNum": 0,
+          "listenId": null
+        },
+        {
+          "answerStatus": 0,
+          "doneNum": "7300",
+          "questionId": "6879",
+          "subTitle": "C9T2W2",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅9 Test 2",
+          "correctNum": 0,
+          "listenId": null
+        },
+        {
+          "answerStatus": 0,
+          "doneNum": "10590",
+          "questionId": "6962",
+          "subTitle": "C5T1W2",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅5 Test 1",
+          "correctNum": 0,
+          "listenId": null
+        }
+      ]
+    }
+  ],
+  "msg": null
+}

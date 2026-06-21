@@ -1,0 +1,38 @@
+[
+  {
+    "id": 28,
+    "keyCode": "1309",
+    "tagZhName": "利弊分析",
+    "sort": 1,
+    "typeCode": "TX",
+    "parentId": "1302",
+    "used": 1
+  },
+  {
+    "id": 29,
+    "keyCode": "1310",
+    "tagZhName": "是否同意",
+    "sort": 2,
+    "typeCode": "TX",
+    "parentId": "1302",
+    "used": 1
+  },
+  {
+    "id": 30,
+    "keyCode": "1311",
+    "tagZhName": "说明文",
+    "sort": 3,
+    "typeCode": "TX",
+    "parentId": "1302",
+    "used": 1
+  },
+  {
+    "id": 31,
+    "keyCode": "1365",
+    "tagZhName": "双边讨论",
+    "sort": 4,
+    "typeCode": "TX",
+    "parentId": "1302",
+    "used": 1
+  }
+]

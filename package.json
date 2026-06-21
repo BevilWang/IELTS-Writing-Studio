@@ -1,0 +1,20 @@
+{
+  "name": "ielts-writing-studio",
+  "version": "1.0.0",
+  "description": "IELTS writing practice app with PDF prompt viewer and Monaco autocomplete",
+  "main": "server.js",
+  "scripts": {
+    "build:questions": "node scripts/buildQuestions.js",
+    "build:corpus": "node scripts/buildCorpus.js",
+    "crawl:ieltscat": "node scripts/crawlIeltscat.js",
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {
+    "playwright": "^1.58.2"
+  }
+}

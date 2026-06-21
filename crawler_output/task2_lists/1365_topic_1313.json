@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "name": "双边讨论",
+      "sectionList": [
+        {
+          "answerStatus": 0,
+          "doneNum": "6882",
+          "questionId": "6763",
+          "subTitle": "C12T7W2",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅12 Test 7",
+          "correctNum": 0,
+          "listenId": null
+        },
+        {
+          "answerStatus": 0,
+          "doneNum": "5071",
+          "questionId": "6831",
+          "subTitle": "C11T4W2",
+          "reportId": null,
+          "totalNum": "1",
+          "examId": null,
+          "avgRightRate": "1/1",
+          "title": "剑雅11 Test 4",
+          "correctNum": 0,
+          "listenId": null
+        }
+      ]
+    }
+  ],
+  "msg": null
+}
