@@ -37,4 +37,3 @@ npx serve public   # 或 python -m http.server -d public 8080
 ```
 
 > 直接用 `file://` 打开 `public/index.html` 不行——浏览器会拦截 `fetch` 加载数据，必须经由 HTTP 服务。
-```
